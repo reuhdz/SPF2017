@@ -1,0 +1,15 @@
+input[type="checkbox" i] {
+    margin: 3px 3px 3px 4px;
+}
+user agent stylesheet
+input[type="checkbox" i] {
+    -webkit-appearance: checkbox;
+    box-sizing: border-box;
+}
+user agent stylesheet
+input[type="radio" i], input[type="checkbox" i] {
+    background-color: initial;
+    margin: 3px 0.5ex;
+    padding: initial;
+    border: initial;
+}
